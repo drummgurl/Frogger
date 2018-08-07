@@ -8,6 +8,8 @@ GWG Project 3
 
 ### How to Play
 
+Visit [here](https://drummgurl.github.io/Frogger/) to play.
+
 Follow these simple instructions to play: 
 
 1. Once the game has loaded, use your keyboard arrow :arrow_left: :arrow_right: :arrow_up: :arrow_down: keys to move towards the water without colliding with a bug.
