@@ -23,4 +23,4 @@ Follow these simple instructions to play:
   
 ### Sources Used
   * Starter code from Udacity outlining basics in Frogger game. 
-  * [Matthew Cranford's Tutorial] (https://matthewcranford.com/arcade-game-walkthrough-part-1-starter-code-breakdown/)
+  * [Matthew Cranford's Tutorial](https://matthewcranford.com/arcade-game-walkthrough-part-1-starter-code-breakdown/)
