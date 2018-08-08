@@ -23,3 +23,4 @@ Follow these simple instructions to play:
   
 ### Sources Used
   * Starter code from Udacity outlining basics in Frogger game. 
+  * Matthew Cranford's Tutorial
