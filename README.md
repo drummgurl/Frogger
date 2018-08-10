@@ -8,6 +8,8 @@ GWG Project 3
 
 ### How to Play
 
+To play the game on your own computer, simply download the files. You can then open the index.html in your web browser and play until your heart's content!
+
 Visit [here](https://drummgurl.github.io/Frogger/) to play.
 
 Follow these simple instructions to play: 
