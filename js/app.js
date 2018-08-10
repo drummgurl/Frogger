@@ -1,3 +1,4 @@
+'use strict';
 // Enemies our player must avoid
 var Enemy = function (x,y, speed) {
     this.x = x;
@@ -58,12 +59,10 @@ class Hero {
 			}
 			break;
 		case 'up':
-			if(this.y > this.jump){
-				this.y -= this.jump;
-			}
+			this.y -= this.jump;
 			break;
 		case 'right':
-			if (this.x <this.step *4){
+			if (this.x < this.step * 4){
 				this.x += this.step;
 			}
 			break;
@@ -85,7 +84,7 @@ class Hero {
 		}
 		// check win here?
 		// did play reach final tile?
-		if(this.y === 55){
+		if(this.y <= 0){
 			this.victory = true;
 		}
 	}
