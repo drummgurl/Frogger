@@ -78,7 +78,7 @@ class Hero {
 		// check collision of enemy/hero
 		for(let enemy of allEnemies){
 			//did play collide with enemy?
-			if (this.y === enemy.y && (enemy.x + enemy.step/2 > this.x && enemy.x < this.x + this.step/2)) {
+			if (this.y === enemy.y && (enemy.x + enemy.step/1.25 > this.x && enemy.x < this.x + this.step/1.25)) {
 				this.reset();
 			}
 		}
